@@ -1,5 +1,14 @@
+import java.util.Scanner;
+
 public abstract class Vehicle {
-    String id;
-    String brand;
-    String entryTime;
+    Scanner input = new Scanner(System.in);
+
+    public ParkingSlots addVehicle(){
+        ParkingSlots slot = new ParkingSlots();
+        System.out.print("Enter the registration ID : ");
+        slot.id = input.nextLine();
+        System.out.print("Enter the brand of the vehicle : ");
+        slot.brand = input.nextLine();
+        return slot;
+    }
 }
