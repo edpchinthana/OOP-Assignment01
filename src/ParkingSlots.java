@@ -6,6 +6,6 @@ public class ParkingSlots{
     int noOfDoors ;
     int cargoVolume ;
     int engineCapacity ;
-    int slot ;
+    int slot =-1 ;
     String type ;
 }

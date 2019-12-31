@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da2ec313-938c-4818-8ee1-788625e2d513" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ParkingSlots.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Motorbike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Motorbike.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Van.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Van.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ParkingSlots.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ParkingSlots.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/WestministerCarParkManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WestministerCarParkManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,7 +77,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="WestministerCarParkManager.java&#10;printMenu() is done" />
-    <option name="LAST_COMMIT_MESSAGE" value="WestministerCarParkManager.java&#10;printMenu() is done" />
+    <MESSAGE value="WestministerCarParkManager.java&#10;addVehicle() is done" />
+    <option name="LAST_COMMIT_MESSAGE" value="WestministerCarParkManager.java&#10;addVehicle() is done" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="43" key="#Project_Structure" timestamp="1577368753551">
@@ -91,37 +89,41 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="137" y="40" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1577384113344" />
-    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1577371195848">
+    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1577672908150">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1577371195848" />
-    <state width="1345" height="192" key="GridCell.Tab.0.bottom" timestamp="1577672744002">
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1577672908150" />
+    <state width="1345" height="192" key="GridCell.Tab.0.bottom" timestamp="1577816739677">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1577672744002" />
-    <state width="1345" height="192" key="GridCell.Tab.0.center" timestamp="1577672744002">
+    <state width="1345" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1577816739677" />
+    <state width="1345" height="192" key="GridCell.Tab.0.center" timestamp="1577816739677">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="192" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1577672744002" />
-    <state width="1345" height="192" key="GridCell.Tab.0.left" timestamp="1577672744001">
+    <state width="1345" height="192" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1577816739677" />
+    <state width="1345" height="192" key="GridCell.Tab.0.left" timestamp="1577816739677">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="192" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1577672744001" />
-    <state width="1345" height="192" key="GridCell.Tab.0.right" timestamp="1577672744002">
+    <state width="1345" height="192" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1577816739677" />
+    <state width="1345" height="192" key="GridCell.Tab.0.right" timestamp="1577816739677">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="192" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1577672744002" />
-    <state x="526" y="121" key="Vcs.Push.Dialog.v2" timestamp="1577371238722">
+    <state width="1345" height="192" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1577816739677" />
+    <state x="526" y="121" key="Vcs.Push.Dialog.v2" timestamp="1577672919936">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="526" y="121" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1577371238722" />
-    <state x="379" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1577667510398">
+    <state x="526" y="121" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1577672919936" />
+    <state x="379" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1577812857964">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="379" y="209" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1577667510398" />
+    <state x="379" y="209" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1577812857964" />
     <state x="492" y="302" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577371227955">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="492" y="302" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.768@0.0.1366.768" timestamp="1577371227955" />
+    <state x="339" y="36" width="672" height="676" key="search.everywhere.popup" timestamp="1577814606345">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="339" y="36" width="672" height="676" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1577814606345" />
   </component>
 </project>
