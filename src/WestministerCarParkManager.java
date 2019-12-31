@@ -66,6 +66,7 @@ public class WestministerCarParkManager implements CarParkManager {
 
     public void printSummary(){
         Car ob = new Car();
+        displaySlots();
         ob.displayCars(park1,maxSlots);
     }
 
